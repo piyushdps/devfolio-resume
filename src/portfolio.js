@@ -19,7 +19,7 @@ const illustration = {
   animated: true // Set to false to use static SVG
 };
 const greetingMessage =
-  "As an engineering graduate, I am always eager to learn and develop new skills.I am passionate about technology and love to stay up-to-date with the latest gadgets and trends";
+  "As an engineering graduate, I am always eager to learn and develop new skills.I am passionate about technology and love to stay up-to-date with the latest gadgets and trends.";
 const greeting = {
   username: "Piyush Aryan",
   title: "Hi all, I'm Piyush",
