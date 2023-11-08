@@ -2,6 +2,7 @@
   font-family: "Agustina Regular";
   font-style: normal;
   font-weight: normal;
+  font-palette: unset;
   src: local("Agustina Regular"),
     url("./assets/fonts/Agustina.woff") format("woff");
   font-display: swap;
